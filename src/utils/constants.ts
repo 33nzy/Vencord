@@ -62,7 +62,7 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         id: 786315593963536415n
 
     },
-    r3r1: {
+    anzy: {
         name: "r3r1",
         id: 1303313378738966548n
 
